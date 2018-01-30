@@ -1,4 +1,4 @@
-class BOok
+class Book
 
 
 end
